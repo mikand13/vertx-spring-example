@@ -1,0 +1,7 @@
+
+logging:
+  level:
+    com.example.demo: INFO
+
+vertx:
+  deploymentVerticle: "com.example.demo.vertx.DeploymentVerticle"
